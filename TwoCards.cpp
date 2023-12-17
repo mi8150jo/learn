@@ -20,4 +20,6 @@ int main(){
         cout << ans[j];
     }
 
+    return 0;
+
 }
